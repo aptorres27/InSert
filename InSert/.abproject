@@ -1,0 +1,45 @@
+{
+  "ProjectName": "InSert",
+  "ProjectGuid": "2ebcc609-4146-415f-b19c-4208bf5e71d3",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.InSert",
+  "DisplayName": "InSert",
+  "Author": "",
+  "Description": "InSert",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{c49c78f4-fe87-4f68-944c-c43e48099425}",
+  "WP8ProductID": "{e957d2c9-64bb-410f-b5f4-e13a5284e793}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.InSert",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
